@@ -4,3 +4,7 @@ ___
 ## Package List(a-z)
 ### Console Utilities
 #### [Chalk](https://www.npmjs.com/package/chalk) - `🖍 Terminal string styling done right`
+
+### Web/HTTP/HTTPS
+#### [Express](https://www.npmjs.com/package/express) - `Fast, unopinionated, minimalist web framework`
+#### [Request](https://www.npmjs.com/package/request) - `Simplified HTTP request client.`
